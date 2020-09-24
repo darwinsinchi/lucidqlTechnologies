@@ -46,13 +46,13 @@ function Secondbody() {
               How to Test Your Schema, Resolvers and Mutations
             </h1>
           </a>
-          <h3 className="optionA">Option A:</h3>
+          <h3 className="optionA">Option A: </h3>
           <h4 className="text">
             The lucidQL tool comes pre-packaged with a backend, which enables
             the user to access GraphQL playground and start querying your new
             API, immediately. After entering a Postgres URI. The user will just
-            have to click on "GraphQL PLayground" which can be accessed through
-            the side menu bar.
+            have to click on "GraphQL Playground" which can be accessed through
+            the side menubar.
           </h4>
         </div>
 
@@ -66,11 +66,27 @@ function Secondbody() {
       <div className="firstBodyV2">
         <div className="column">
           <h3 className="optionB">Option B:</h3>
-          <h4 className="text">Download Files</h4>
-          <h4 className="text">Unzip package</h4>
-          <h4 className="text">Open directory</h4>
-          <h4 className="text">Install dependencies with "npm install" </h4>
-          <h4 className="text">Run the application with "npm start"</h4>
+          <ol>
+            <h4 className="text">
+              <li>Download Files</li>
+            </h4>
+            <h4 className="text">
+              <li>Unzip package</li>
+            </h4>
+            <h4 className="text">
+              <li>Open directory</li>
+            </h4>
+            <h4 className="text">
+              <li>
+                Install dependencies with <code>npm install</code>{" "}
+              </li>
+            </h4>
+            <h4 className="text">
+              <li>
+                Run the application with <code>npm start</code>
+              </li>
+            </h4>
+          </ol>
         </div>
         <code className="npmbox">
           <h2 className="npm"> npm run build</h2>
