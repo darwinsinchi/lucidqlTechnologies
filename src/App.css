@@ -3,6 +3,7 @@
   background-color: #f3f3f3;
   background-repeat: no-repeat;
   background-size: cover;
+
   /* background-attachment: fixed; */
 }
 
@@ -285,4 +286,16 @@ img {
   width: 25;
   height: 20px;
   object-fit: contain;
+}
+
+.wholeComponent {
+  max-width: 1300px;
+}
+
+.wholeBodyPart {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
 }

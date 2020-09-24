@@ -3,7 +3,7 @@ import logoPicture from "../img/lucidQL.png";
 
 function FirstBody() {
   return (
-    <div>
+    <div className="wholeComponent">
       <div className="firstBody">
         <div className="column">
           <h1 className="maintitle">
