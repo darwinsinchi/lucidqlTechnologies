@@ -283,8 +283,8 @@ img {
 }
 
 .lucidQLwords {
-  width: 25;
-  height: 20px;
+  width: 30;
+  height: 25px;
   object-fit: contain;
 }
 
@@ -298,4 +298,8 @@ img {
   justify-content: center;
   align-content: center;
   align-items: center;
+}
+
+.nav-item {
+  font-size: 17px;
 }
