@@ -30,7 +30,7 @@
   }
 
   .gif1 {
-    margin-top: 120px;
+    margin-top: 130px;
   }
   .gif2 {
     margin-top: 50px;
@@ -118,6 +118,10 @@ img {
 .text {
   text-align: left;
   font-family: sans-serif;
+}
+
+.secondBulletPoint {
+  text-align: left;
 }
 
 .optionB {
@@ -250,4 +254,8 @@ img {
 
 .wholeTeam {
   margin-top: 70px;
+}
+
+.bulletpoints {
+  margin-top: 30px;
 }
