@@ -41,6 +41,14 @@ function Navbar() {
                 | View Source Code
               </a>
             </li>
+            <li class="nav-item">
+              <a
+                class="nav-link"
+                href="https://medium.com/@shuang104/migrating-to-a-graphql-api-9ab5b7b320da"
+              >
+                | Medium Article
+              </a>
+            </li>
           </ul>
         </div>
       </nav>
