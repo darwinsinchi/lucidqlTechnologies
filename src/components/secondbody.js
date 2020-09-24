@@ -71,27 +71,6 @@ function Secondbody() {
           <h4 className="text">Open directory</h4>
           <h4 className="text">Install dependencies with "npm install" </h4>
           <h4 className="text">Run the application with "npm start"</h4>
-          <h4 className="text">
-            After the application is running, enter localhost:3000/playground in
-            your browser and you can start querying your database
-          </h4>
-          <h4 className="text">
-            The downloaded package includes the following:
-            <ul>
-              <li>
-                A connection file connects your Postgres API to your server
-              </li>
-              <li>
-                The server file sets up your server and includes playground so
-                that you can query the information from your API as needed
-              </li>
-              <li>
-                Lastly, your schema file will provide you with queries,
-                mutations, and resolvers based on your pre-existing relational
-                database
-              </li>
-            </ul>
-          </h4>
         </div>
         <code className="npmbox">
           <h2 className="npm"> npm run build</h2>

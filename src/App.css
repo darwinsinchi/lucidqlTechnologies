@@ -120,6 +120,17 @@ img {
   font-family: sans-serif;
 }
 
+.gotolucid {
+  background-color: rgb(154, 116, 190);
+  width: 400px;
+  height: 60px;
+  font-family: sans-serif;
+  border-radius: 30px;
+  color: white;
+  font-size: 30px;
+  margin-top: 15px;
+}
+
 .secondBulletPoint {
   text-align: left;
 }

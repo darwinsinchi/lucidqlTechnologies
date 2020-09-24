@@ -12,6 +12,9 @@ function FirstBody() {
           Quickly design GraphQL APIs from existing RESTful APIs that use an
           existing Postgres database.{" "}
         </h4>
+        <form action="http://www.lucidql.com/">
+          <input className="gotolucid" type="submit" value="Try It Now" />
+        </form>
       </div>
       <img className="logopicture" src={logoPicture} alt="picture"></img>
     </div>
